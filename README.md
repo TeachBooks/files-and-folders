@@ -1,3 +1,5 @@
-# Files-and-Folders Jupyter Book
+# Files & Folders has moved!
 
-This repository is the pilot version of the files-and-folders book.
+The mini-module has migrated to the url: https://tu-delft-library.github.io/file_naming_and_folder_organisation
+
+All future updates to the materials will be made under the TU Delft Library’s Github: [Visit the repository](https://github.com/tu-delft-library/file_naming_and_folder_organisation)
