@@ -1,4 +1,9 @@
 (intro)=
-# Files and Folders
+# Files & Folders has moved! 
 
-This mini-module was developed by the Data Literacy Project at TU Delft’s Library Education Support in collaboration with Research Data & Software, the bachelor’s of Civil Engineering program, the TU Delft Library Education Support team, the CiTG data stewards, and the faculty of CiTG’s TeachBooks initiative. 
+The mini-module has migrated to the url: https://tu-delft-library.github.io/file_naming_and_folder_organisation
+
+It will be updated under the TU Delft Library's Github: [Visit the repository](https://github.com/tu-delft-library/planning_for_rdm)
+
+
+
